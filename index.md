@@ -11,3 +11,5 @@
 - [ChatGPT](https://openai.com/chatgpt) -  A popular text-based AI which also lets you upload files, voice conversation, browsing the web (4o & 4 models only).
 - [Copilot](https://www.microsoft.com/en-us/microsoft-copilot) - Text-based AI, similiar to ChatGPT. Comes with free image generation.
 - [Gemini](https://google.com/gemini) - Text-based AI, similiar to Copilot & ChatGPT. Lets you upload images.
+- [Hotpot](https://hotpot.ai) - Free image generation tool. Requires attribution.
+- [Poe] - Poe is a website where you can find lots of AIs made by others.
