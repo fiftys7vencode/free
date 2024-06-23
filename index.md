@@ -1,6 +1,6 @@
 # Categories
 - [Application Programming Interfaces (APIs)](https://fiftys7vencode.github.io/free/#/?id=Application-Programming-Interfaces)
-- [Artificial Inteligence](https://fiftys7vencode.github.io/free/#Artificial Inteligence)
+- [Artificial Inteligence](https://fiftys7vencode.github.io/free/#/?id=Artificial-Inteligence)
 
 # a
 # sdfgsdf
