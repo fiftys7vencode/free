@@ -1,6 +1,6 @@
 # Categories
-- [Application Programming Interfaces (APIs)](#Application Programming Interfaces)
-- [Artificial Inteligence](#Artificial Inteligence)
+- [Application Programming Interfaces (APIs)](# Application Programming Interfaces)
+- [Artificial Inteligence](# Artificial Inteligence)
 
 # a
 # sdfgsdf
